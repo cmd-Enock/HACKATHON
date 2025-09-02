@@ -1,13 +1,3 @@
 Flask==2.3.3
-Flask-CORS==4.0.0
-
-farmconnect/
-├── app.py
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
+mysql-connector-python==8.1.0
+gunicorn==21.2.0
